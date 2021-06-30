@@ -1,6 +1,6 @@
-### Hi there, I'm André - aka [AndrewwMax][website] 👋
+### Hi, I'm André - aka [AndrewwMax][website] 👋
 
-[![Website](https://img.shields.io/website?label=andreww.dev.br&style=for-the-badge&url=https://andreww.dev.br)](https://andreww.dev.br)
+<!-- [![Website](https://img.shields.io/website?label=andreww.dev.br&style=for-the-badge&url=https://andreww.dev.br)](https://andreww.dev.br) -->
 
 ## I am a Dreamer, Sportsman and Curious Developer!
 
@@ -13,9 +13,10 @@ I'm a dreamer, sportsman, curious developer
 - 📊 Very interested in UI/UX
 - 🏋️‍♂️ Skills evolving
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="andreww.dev.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+-->
 
 <br />
 
@@ -42,3 +43,4 @@ I'm a dreamer, sportsman, curious developer
 <br />
 
 [website]: https://andreww.dev.br
+[skill]: Skill
