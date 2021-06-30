@@ -1,4 +1,4 @@
-### Hi, I'm André - aka [AndrewwMax][website] 👋
+### Hi, I'm André Couto <!-- - aka [AndrewwMax][website] --> 👋
 
 <!-- [![Website](https://img.shields.io/website?label=andreww.dev.br&style=for-the-badge&url=https://andreww.dev.br)](https://andreww.dev.br) -->
 
@@ -43,4 +43,4 @@ I'm a dreamer, sportsman, curious developer
 <br />
 
 [website]: https://andreww.dev.br
-[skill]: Skill
+[skills]: Skill
